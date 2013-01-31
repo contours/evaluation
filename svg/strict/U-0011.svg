@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="106" id="svg2">
+  <g id="layer1">
+
+    <path
+       d="m 0,41 100,0"
+       id="annotators:brennan-41"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,22 100,0"
+       id="annotators:docsouth-22"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,41 100,0"
+       id="annotators:docsouth-41"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,60 100,0"
+       id="annotators:docsouth-60"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,100 100,0"
+       id="annotators:docsouth-100"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,7 100,0"
+       id="annotators:mannheim-7"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,27 100,0"
+       id="annotators:mannheim-27"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,41 100,0"
+       id="annotators:mannheim-41"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,60 100,0"
+       id="annotators:mannheim-60"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,84 100,0"
+       id="annotators:mannheim-84"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,41 300,0"
+       id="gold-41"
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,60 300,0"
+       id="gold-60"
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+  <g transform="translate(0,41)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">41</text>
+  </g>
+
+  <g transform="translate(100,22)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">22</text>
+  </g>
+
+  <g transform="translate(100,41)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">41</text>
+  </g>
+
+  <g transform="translate(100,60)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">60</text>
+  </g>
+
+  <g transform="translate(100,100)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">100</text>
+  </g>
+
+  <g transform="translate(200,7)">
+    <rect width="8" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">7</text>
+  </g>
+
+  <g transform="translate(200,27)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">27</text>
+  </g>
+
+  <g transform="translate(200,41)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">41</text>
+  </g>
+
+  <g transform="translate(200,60)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">60</text>
+  </g>
+
+  <g transform="translate(200,84)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">84</text>
+  </g>
+
+  </g>
+</svg>
