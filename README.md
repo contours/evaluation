@@ -61,3 +61,15 @@ optional arguments:
   -o DIR, --output DIR  directory to write SVG files to
   -g GOLD, --gold GOLD  name of a gold segmentation file
 ```
+```
+usage: mean_pi.py [-h] filename gold
+
+Calculate mean π against a gold segmentation.
+
+positional arguments:
+  filename    name of the JSON segmentation file
+  gold        name of the gold segmentation file
+
+optional arguments:
+  -h, --help  show this help message and exit
+```
