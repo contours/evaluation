@@ -1,15 +1,27 @@
 ```
-usage: strict_agreement.py [-h] [-k] filename
+usage: gold.py [-h] [-n] filename
 
-Calculates strict segmentation agreement.
+Generates a 'gold' segmentation by majority vote.
 
 positional arguments:
-  filename     name of the JSON segmentation file
+  filename    name of the JSON segmentation file
 
 optional arguments:
-  -h, --help   show this help message and exit
-  -k, --kappa  also calculate multi-κ agreement and bias
-```  
+  -h, --help  show this help message and exit
+  -n, --near  count near agreement when majority voting
+```
+```
+usage: mean_pi.py [-h] filename gold
+
+Calculate mean π against a gold segmentation.
+
+positional arguments:
+  filename    name of the JSON segmentation file
+  gold        name of the gold segmentation file
+
+optional arguments:
+  -h, --help  show this help message and exit
+```
 ```
 usage: near_agreement_alpha.py [-h] [--reference REFERENCE] filename
 
@@ -37,16 +49,20 @@ optional arguments:
                         name of the reference annotator used to calculate k
 ```
 ```
-usage: gold.py [-h] [-n] filename
+usage: strict_agreement.py [-h] [-c CODERS] [-e filename] [-k] filename
 
-Generates a 'gold' segmentation by majority vote.
+Calculates strict segmentation agreement.
 
 positional arguments:
-  filename    name of the JSON segmentation file
+  filename              name of the JSON segmentation file
 
 optional arguments:
-  -h, --help  show this help message and exit
-  -n, --near  count near agreement when majority voting
+  -h, --help            show this help message and exit
+  -c CODERS, --coder CODERS
+                        only include specified coders
+  -e filename, --evaluate filename
+                        name of a segmentation file to evaluate
+  -k, --kappa           also calculate multi-κ agreement and bias
 ```
 ```
 usage: visualize.py [-h] [-o DIR] [-g GOLD] filename
@@ -60,16 +76,4 @@ optional arguments:
   -h, --help            show this help message and exit
   -o DIR, --output DIR  directory to write SVG files to
   -g GOLD, --gold GOLD  name of a gold segmentation file
-```
-```
-usage: mean_pi.py [-h] filename gold
-
-Calculate mean π against a gold segmentation.
-
-positional arguments:
-  filename    name of the JSON segmentation file
-  gold        name of the gold segmentation file
-
-optional arguments:
-  -h, --help  show this help message and exit
 ```

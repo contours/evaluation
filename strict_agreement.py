@@ -113,38 +113,44 @@ def merge(docs1, docs2):
                segmentations1, segmentations2)
   return dict(zip(doc_ids1, merged))
 
-def main():
-  "Calculates strict segmentation agreement."
+def parse_args():
   p = ArgumentParser(description=main.__doc__)
   p.add_argument(
     'filename', help='name of the JSON segmentation file')
+  p.add_argument(
+    '-c', '--coder', help='only include specified coders', 
+    action='append', dest='coders')
   p.add_argument(
     '-e', '--evaluate', help='name of a segmentation file to evaluate',
     metavar='filename')
   p.add_argument(
     '-k', '--kappa', help='also calculate multi-κ agreement and bias', 
     action='store_true')
-  args = p.parse_args()
+  return p.parse_args()
+
+def do(title, items, func):
+  per_document, overall = get_results(items, func)
+  show_results('Fleiss’s multi-π', per_document, overall)
+  return per_document, overall
+
+def main():
+  "Calculates strict segmentation agreement."
+  args = parse_args()
   o = load_segmentation_data(args.filename)
+  items = filter_coders(o['items'], args.coders) if args.coders else o['items']
   print '''
 Strict segmentation agreement, where agreement is modeled as two
 annotators making the same judgment on a potential boundary.'''
-  pi_per_document, pi_overall = get_results(
-    o['items'], partial(strict_agreement, expected_agreement='pi'))
-  show_results('Fleiss’s multi-π', pi_per_document, pi_overall)
+  pi = partial(strict_agreement, expected_agreement='pi')
+  do('Fleiss’s multi-π', items, pi) 
   if args.evaluate:
-    e = load_segmentation_data(args.evaluate)
-    pi_per_document_eval, pi_overall_eval = get_results(
-      merge(o['items'], e['items']), 
-      partial(strict_agreement, expected_agreement='pi'))
     name = args.evaluate.split('/')[-1].split('.')[0]
-    show_results('With {}'.format(name), pi_per_document_eval, pi_overall_eval)
+    e = load_segmentation_data(args.evaluate)
+    do('With {}'.format(name), merge(items, e['items']), pi)
   if args.kappa:
-    k_per_document, k_overall = get_results(
-      o['items'], partial(strict_agreement, expected_agreement='kappa'))
-    show_results('Fleiss’s multi-κ', k_per_document, k_overall)
-    b_per_document, b_overall = get_results(o['items'], annotator_bias)
-    show_results('Annotator bias', b_per_document, b_overall)
+    kappa = partial(strict_agreement, expected_agreement='kappa')
+    do('Fleiss’s multi-κ', items, kappa)
+    do('Annotator bias', items, annotator_bias)
     
 if __name__ == "__main__":
   main()

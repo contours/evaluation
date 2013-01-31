@@ -75,3 +75,9 @@ def print_coefficients(d):
   for doc, c in sorted(d.items(), key=lambda x: x[1], reverse=True):
     print '{}: {:.2f}'.format(doc.split(':')[1], c) 
 
+def filter_coders(documents, keep):
+  [doc_ids, segmentations] = zip(*sorted(documents.items()))
+  filtered = [ { k:v for k,v in s.items() if k in keep } 
+               for s in segmentations ]
+  return dict(zip(doc_ids, filtered))
+

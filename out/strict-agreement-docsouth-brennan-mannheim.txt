@@ -1,0 +1,28 @@
+
+Strict segmentation agreement, where agreement is modeled as two
+annotators making the same judgment on a potential boundary.
+
+Fleiss’s multi-π:
+
+U-0017: 0.63
+U-0186: 0.46
+U-0012: 0.41
+U-0185: 0.40
+U-0011: 0.38
+U-0178: 0.34
+U-0023: 0.32
+U-0020: 0.32
+U-0005: 0.32
+U-0184: 0.31
+U-0019: 0.30
+U-0183: 0.29
+U-0193: 0.28
+U-0181: 0.25
+U-0014: 0.24
+U-0008: 0.21
+U-0180: 0.18
+U-0007: 0.16
+U-0098: 0.13
+
+Overall: 0.34
+
