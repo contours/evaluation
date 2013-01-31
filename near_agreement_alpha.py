@@ -48,32 +48,37 @@ def near_agreement(segmentations, k=None):
   e = expected_disagreement(c, judgments)
   return 1 - (o/e)
 
-def main():
-  "Calculates near segmentation agreement using Krippendorf's α."
+def parse_args():
   p = ArgumentParser(description=main.__doc__)
   p.add_argument(
     'filename', help='name of the JSON segmentation file')
   p.add_argument(
+    '-c', '--coder', help='only include these coders (must have 2 or more)', 
+    action='append', dest='coders')
+  p.add_argument(
     '--reference', help='name of the reference annotator used to calculate k')
-  args = p.parse_args()
+  return p.parse_args()
+
+def reference_k(items, reference):
+  reference_segmentations = [ s[reference] for s in items.values() ]
+  return window_size(reference_segmentations)
+
+def main():
+  "Calculates near segmentation agreement using Krippendorf's α."
+  args = parse_args()
   o = load_segmentation_data(args.filename)
-  if args.reference is None:
-    # Calculate window size per document
-    agreement = near_agreement
-  else:
-    # Use one window size across all documents
-    ra = 'annotators:{}'.format(args.reference)
-    reference_segmentations = [ s[ra] for s in o['items'].values() ]
-    k = int(round(mean_segment_mass(reference_segmentations) / 2))
-    agreement = partial(near_agreement, k=k)
+  items = filter_coders(o['items'], args.coders) if args.coders else o['items']
+  agreement = (near_agreement if args.reference is None 
+               else partial(near_agreement, 
+                            k=reference_k(items, args.reference)))
   print '''
 Near segmentation agreement (Krippendorf's α), where agreement is
 modeled as two annotators counting the same number of boundaries
 within a window (i.e. WindowDiff):
 '''
-  print_coefficients(per_document_coefficients(o['items'], agreement))
+  print_coefficients(per_document_coefficients(items, agreement))
   print '\nOverall agreement: {:.2f}\n'.format(
-    overall_coefficient(o['items'], agreement))
+    overall_coefficient(items, agreement))
 
 if __name__ == "__main__":
   main()

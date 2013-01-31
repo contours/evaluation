@@ -1,0 +1,27 @@
+
+Near segmentation agreement (Krippendorf's α), where agreement is
+modeled as two annotators counting the same number of boundaries
+within a window (i.e. WindowDiff):
+
+U-0012: 0.57
+U-0186: 0.42
+U-0185: 0.39
+U-0183: 0.37
+U-0011: 0.32
+U-0014: 0.31
+U-0008: 0.27
+U-0023: 0.26
+U-0020: 0.24
+U-0017: 0.22
+U-0007: 0.14
+U-0019: 0.12
+U-0193: 0.09
+U-0005: 0.07
+U-0181: 0.04
+U-0184: -0.01
+U-0180: -0.03
+U-0098: -0.04
+U-0178: -0.11
+
+Overall agreement: 0.29
+
