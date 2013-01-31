@@ -51,23 +51,27 @@ def flattened(dicts):
   "Flatten a sequence of dictionaries into a single sequence of tuples."
   return list(chain(*[d.items() for d in dicts]))
 
-def overall_coefficient(documents, f):
+def overall_segmentations(documents):
   """
   Expects a dict with document IDs as keys and ``{coder:segmentation}`` 
   dicts as values. Note that each document must have the same set of 
   coders, or an exception will be thrown.
   """
   assert_same_coders(documents)
+  # make sure segmentations are in document order
+  [doc_ids, segmentations] = zip(*sorted(documents.items())) 
   key = lambda x: x[0]
-  return f([ 
-    list(chain(*[ x[1] for x in g ])) 
-    for c,g in groupby(sorted(flattened(documents.values()), key=key), key) ])
+  return [ list(chain(*[ x[1] for x in g ])) 
+           for c,g in groupby(sorted(flattened(segmentations), key=key), key) ]
+
+def overall_coefficient(documents, f):
+  return f(overall_segmentations(documents))
 
 def load_segmentation_data(filename):
   with open(filename) as data:
     return json.load(data)  
 
 def print_coefficients(d):
-  for doc, agr in sorted(d.items(), key=lambda x: x[1], reverse=True):
-    print '{}: {:.2f}'.format(doc.split(':')[1], agr) 
+  for doc, c in sorted(d.items(), key=lambda x: x[1], reverse=True):
+    print '{}: {:.2f}'.format(doc.split(':')[1], c) 
 

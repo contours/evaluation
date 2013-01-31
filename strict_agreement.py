@@ -100,11 +100,18 @@ def get_results(documents, f):
   return (per_document_coefficients(documents, f), 
           overall_coefficient(documents, f))
 
-def show_results(title, documents, f):
-  per_document, overall = get_results(documents, f)
+def show_results(title, per_document, overall):
   print '\n{}:\n'.format(title)
   print_coefficients(per_document)
   print '\nOverall: {:.2f}\n'.format(overall)
+
+def merge(docs1, docs2):
+  [doc_ids1, segmentations1] = zip(*sorted(docs1.items()))
+  [doc_ids2, segmentations2] = zip(*sorted(docs2.items()))
+  assert doc_ids1 == doc_ids2
+  merged = map(lambda d1,d2: dict(d1.items() + d2.items()), 
+               segmentations1, segmentations2)
+  return dict(zip(doc_ids1, merged))
 
 def main():
   "Calculates strict segmentation agreement."
@@ -112,23 +119,32 @@ def main():
   p.add_argument(
     'filename', help='name of the JSON segmentation file')
   p.add_argument(
+    '-e', '--evaluate', help='name of a segmentation file to evaluate',
+    metavar='filename')
+  p.add_argument(
     '-k', '--kappa', help='also calculate multi-κ agreement and bias', 
     action='store_true')
   args = p.parse_args()
   o = load_segmentation_data(args.filename)
   print '''
 Strict segmentation agreement, where agreement is modeled as two
-annotators making the same judgment on a potential boundary.
-'''
-  show_results(
-    'Fleiss’s multi-π', o['items'],
-    partial(strict_agreement, expected_agreement='pi'))
+annotators making the same judgment on a potential boundary.'''
+  pi_per_document, pi_overall = get_results(
+    o['items'], partial(strict_agreement, expected_agreement='pi'))
+  show_results('Fleiss’s multi-π', pi_per_document, pi_overall)
+  if args.evaluate:
+    e = load_segmentation_data(args.evaluate)
+    pi_per_document_eval, pi_overall_eval = get_results(
+      merge(o['items'], e['items']), 
+      partial(strict_agreement, expected_agreement='pi'))
+    name = args.evaluate.split('/')[-1].split('.')[0]
+    show_results('With {}'.format(name), pi_per_document_eval, pi_overall_eval)
   if args.kappa:
-    show_results(
-      'Fleiss’s multi-κ', o['items'],
-      partial(strict_agreement, expected_agreement='kappa'))
-    show_results(
-      'Annotator bias', o['items'], annotator_bias)
+    k_per_document, k_overall = get_results(
+      o['items'], partial(strict_agreement, expected_agreement='kappa'))
+    show_results('Fleiss’s multi-κ', k_per_document, k_overall)
+    b_per_document, b_overall = get_results(o['items'], annotator_bias)
+    show_results('Annotator bias', b_per_document, b_overall)
     
 if __name__ == "__main__":
   main()
