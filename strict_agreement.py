@@ -6,6 +6,7 @@ from argparse import ArgumentParser
 from collections import Counter
 from itertools import combinations
 from functools import partial
+from termcolor import colored
 from utils import *
 
 # Notes on terminology: 
@@ -30,6 +31,9 @@ def pairwise_agreement(c, n):
   """
   return (n*(n-1) + (c-n)*(c-n-1)) / float(c*(c-1))
 
+def proportion_positive(c, i, n):
+  return n / float(i*c)
+
 def observed_agreement(c, m, judgments):
   """
   Given a count `c` of coders, a total mass `m`, and counts of
@@ -39,6 +43,13 @@ def observed_agreement(c, m, judgments):
   boundary_agreements = [ pairwise_agreement(c, judgments[i]) 
                           for i in range(1, m) ]
   return sum(boundary_agreements) / len(boundary_agreements)
+
+def observed_agreement_on_positive(c, m, judgments):
+  i = m-1
+  p = proportion_positive(c, i, sum(judgments.values()))
+  num = sum([ n**2 for n in judgments.values() ]) - (i*c*p)
+  den = i*c*(c-1)*p
+  return num / den
 
 def estimate_pos(c, index_lists, m):
   "The proportion of positive judgments made by the specified coder"
@@ -63,7 +74,7 @@ def expected_agreement_kappa(index_lists, m):
   return (joint(pairs, estimate_pos, index_lists, m) +
           joint(pairs, estimate_neg, index_lists, m))
 
-def expected_agreement_pi(c, i, n):
+def expected_agreement_pi(c, i, n, power=2):
   """
   Given a count `c` of coders, a count `i` of indexes (i.e. potential
   boundaries), and a count `n` of total positive boundary judgments,
@@ -72,7 +83,37 @@ def expected_agreement_pi(c, i, n):
   
   Note that the count of negative boundary judgments is c*i - n.
   """
-  return (n**2 + (c*i - n)**2) / float(i*c)**2
+  return (n**power + (c*i - n)**power) / float(i*c)**power
+
+# def variance_pi(e, c, i, n):
+#   """
+#   Given an expected agreement `e`, a count `c` of coders, a count `i`
+#   of indexes (i.e. potential boundaries), and a count `n` of total
+#   positive boundary judgments, calculate the variance of Fleiss’
+#   multi-π.
+#   """
+#   w = 2 / float(i*c*(c-1))
+#   x = ((2*c)-3)*(e**2)
+#   y = (2*(c-2)*expected_agreement_pi(c,i,n,power=3)) / ((i*c)**3)
+#   z = (1-e)**2
+#   return w * ((e-x+y) / z)
+
+# def variance_pi(c, i, n):
+#   return (n - n**2) / float(i*c*(i*c - 1))
+
+def variance_pi(c, i):
+  """
+  Calculate the variance for multi-π according to the formula in
+  Fleiss, Joseph L., John C. Nee, and J. Richard Landis. Large Sample
+  Variance of Kappa in the Case of Different Sets of Raters.
+  Psychological Bulletin 86, no. 5 (1979): 974–977. 
+  http://dx.doi.org/10.1037/0033-2909.86.5.974
+
+  Note that because we only have two categories here, variance of
+  multi-π is the same as variance in agreement on a category (equation
+  13 in Fleiss, Nee, and Landis).
+  """
+  return 2 / float(i*c*(c-1))
 
 def strict_agreement(segmentations, expected_agreement='pi'):
   """
@@ -83,11 +124,32 @@ def strict_agreement(segmentations, expected_agreement='pi'):
   judgments = count_judgments(index_lists)
   c = len(segmentations)
   o = observed_agreement(c, m, judgments)
+  n = sum(judgments.values())
   if expected_agreement == 'pi':
-    e = expected_agreement_pi(c, m-1, sum(judgments.values()))
+    e = expected_agreement_pi(c, m-1, n)
   elif expected_agreement == 'kappa':
     e = expected_agreement_kappa(index_lists, m)
-  return (o-e) / (1-e)
+  agreement = (o-e) / (1-e)
+  var = variance_pi(c, m-1)
+  print var
+  return (agreement, var)
+
+def variance_pi_on_positive(e, c, i, n):
+  x = (1+(2*(c-1)*e))**2
+  y = 2*(c-1)*e*(1-e)
+  z = i*c*((c-1)**2)*e*(1-e)
+  return (x+y)/z
+
+def strict_agreement_on_positive(segmentations):
+  index_lists, m = masses_to_indexes(segmentations)
+  judgments = count_judgments(index_lists)
+  c = len(segmentations)
+  o = observed_agreement_on_positive(c, m, judgments)
+  n = sum(judgments.values())
+  e = proportion_positive(c, m-1, n)
+  agreement = (o-e) / (1-e)
+  var = variance_pi_on_positive(e, c, m-1, n)
+  return (agreement, var)
 
 def annotator_bias(segmentations):
   index_lists, m = masses_to_indexes(segmentations)
@@ -96,14 +158,12 @@ def annotator_bias(segmentations):
   return (expected_agreement_pi(c, m-1, sum(judgments.values())) -
           expected_agreement_kappa(index_lists, m))
 
-def get_results(documents, f):
-  return (per_document_coefficients(documents, f), 
-          overall_coefficient(documents, f))
-
 def show_results(title, per_document, overall):
   print '\n{}:\n'.format(title)
   print_coefficients(per_document)
-  print '\nOverall: {:.2f}\n'.format(overall)
+  print
+  print_coefficient('Overall', *overall)
+  print
 
 def merge(docs1, docs2):
   [doc_ids1, segmentations1] = zip(*sorted(docs1.items()))
@@ -128,11 +188,37 @@ def parse_args():
     action='store_true')
   return p.parse_args()
 
-def do(title, items, func):
-  per_document, overall = get_results(items, func)
-  show_results('Fleiss’s multi-π', per_document, overall)
-  return per_document, overall
+def compare(values1, values2):
+  c1, v1 = values1
+  c2, v2 = values2
+  return (c1-c2), ((c1-c2)/((v1+v2))**.5)
 
+def format_comparison(d, val, comp):
+  c,v = val
+  drop,z = comp
+  formatted = '{}: {} ({:.2f}, z: {:.2f})'.format(
+    d.split(':')[-1], format_coefficient(c,v), drop, z)
+  if z > 1.96 or z < -1.96:
+    return colored(formatted, 'red')
+  else:
+    return formatted
+
+def do(title, items, func, ref=None):
+  per_document, overall = get_results(items, func)
+  if ref:
+    ref_per_document, ref_overall = ref
+    values = sorted([ (doc_id, v, compare(v,ref_per_document[doc_id])) 
+                       for doc_id,v in per_document.items() ],
+                    key=lambda x: x[2][0], reverse=True)
+    print '\n{}:\n'.format(title)
+    print '\n'.join(
+      [ format_comparison(d, val, comp) for d,val,comp in values ])
+    print format_comparison('\nOverall', overall, compare(overall, ref_overall))
+    print
+  else:
+    show_results(title, per_document, overall)
+  return per_document, overall
+  
 def main():
   "Calculates strict segmentation agreement."
   args = parse_args()
@@ -141,12 +227,12 @@ def main():
   print '''
 Strict segmentation agreement, where agreement is modeled as two
 annotators making the same judgment on a potential boundary.'''
-  pi = partial(strict_agreement, expected_agreement='pi')
-  do('Fleiss’s multi-π', items, pi) 
+  #pi = partial(strict_agreement, expected_agreement='pi')
+  pi = strict_agreement_on_positive
+  ref = do('Fleiss’s multi-π, human coders', items, pi) 
   if args.evaluate:
-    name = args.evaluate.split('/')[-1].split('.')[0]
     e = load_segmentation_data(args.evaluate)
-    do('With {}'.format(name), merge(items, e['items']), pi)
+    do('With {}'.format(e['id']), merge(items, e['items']), pi, ref)
   if args.kappa:
     kappa = partial(strict_agreement, expected_agreement='kappa')
     do('Fleiss’s multi-κ', items, kappa)
