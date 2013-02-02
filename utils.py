@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import json
 import operator
 from itertools import chain, groupby
@@ -43,7 +45,7 @@ def per_document_coefficients(documents, f):
   coders, or an exception will be thrown.
   """
   assert_same_coders(documents)
-  # make sure the segmentations are always in the same order by annotator
+  # make sure the segmentations are always in the same order
   return { doc_id: f([ segs[a] for a in sorted(segs) ] )
            for doc_id, segs in documents.items() }
 
@@ -67,13 +69,30 @@ def overall_segmentations(documents):
 def overall_coefficient(documents, f):
   return f(overall_segmentations(documents))
 
+def get_results(documents, f):
+  return (per_document_coefficients(documents, f), 
+          overall_coefficient(documents, f))
+
 def load_segmentation_data(filename):
   with open(filename) as data:
     return json.load(data)  
 
+def error(variance, interval=0.95):
+  if interval == 0.95:
+    return 1.96*(variance**.5)
+  if interval == 0.5:
+    return 0.67*(variance**.5)
+  raise Exception('interval must be .95 or .5')
+
+def format_coefficient(c, v):
+  return '{:.2f}±{:.2f}'.format(c, error(v)) 
+
+def print_coefficient(label, c, v):
+  print '{}: {:.2f}±{:.2f}'.format(label, c, error(v)) 
+
 def print_coefficients(d):
-  for doc, c in sorted(d.items(), key=lambda x: x[1], reverse=True):
-    print '{}: {:.2f}'.format(doc.split(':')[1], c) 
+  for doc, (c,v) in sorted(d.items(), key=lambda x: x[1], reverse=True):
+    print_coefficient(doc.split(':')[1], c, v)
 
 def filter_coders(documents, keep):
   [doc_ids, segmentations] = zip(*sorted(documents.items()))

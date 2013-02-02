@@ -46,7 +46,9 @@ def near_agreement(segmentations, k=None):
   c = len(segmentations)
   o = observed_disagreement(c, judgments)
   e = expected_disagreement(c, judgments)
-  return 1 - (o/e)
+  agreement = 1 - (o/e)
+  variance = None # need bootstrap to calculate this
+  return agreement, variance
 
 def parse_args():
   p = ArgumentParser(description=main.__doc__)
