@@ -1,3 +1,4 @@
+## filter.py
 ```
 usage: filter.py [-h] filename coders
 
@@ -10,6 +11,7 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+## gold.py
 ```
 usage: gold.py [-h] [-n] filename
 
@@ -22,6 +24,7 @@ optional arguments:
   -h, --help  show this help message and exit
   -n, --near  count near agreement when majority voting
 ```
+## mean_pi.py
 ```
 usage: mean_pi.py [-h] filename gold
 
@@ -34,6 +37,7 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+## near_agreement_alpha.py
 ```
 usage: near_agreement_alpha.py [-h] [-c CODERS] [--reference REFERENCE]
                                filename
@@ -50,6 +54,7 @@ optional arguments:
   --reference REFERENCE
                         name of the reference annotator used to calculate k
 ```
+## near_agreement_multipi.py
 ```
 usage: near_agreement_multipi.py [-h] [--reference REFERENCE] filename
 
@@ -63,6 +68,7 @@ optional arguments:
   --reference REFERENCE
                         name of the reference annotator used to calculate k
 ```
+## nullseg.py
 ```
 usage: nullseg.py [-h] filename
 
@@ -74,6 +80,7 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+## plots.py
 ```
 usage: plots.py [-h] filename svg
 
@@ -84,6 +91,7 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+## randomseg.py
 ```
 usage: randomseg.py [-h] filename
 
@@ -95,6 +103,7 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+## strict_agreement.py
 ```
 usage: strict_agreement.py [-h] [-c CODERS] [-e filename] filename
 
@@ -110,6 +119,7 @@ optional arguments:
   -e filename, --evaluate filename
                         name of a segmentation file to evaluate
 ```
+## visualize.py
 ```
 usage: visualize.py [-h] [-c filename:color] [-o DIR] filename
 
