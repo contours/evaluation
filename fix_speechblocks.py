@@ -201,19 +201,30 @@ def save(o, filename):
   with open(filename, 'w') as f:
     json.dump(o, f, sort_keys=True, indent=2, separators=(',', ': '))
 
+def ifdigit(s):
+  if s.isdigit():
+    return int(s)
+  return s
+
+def sortkey(k):
+  return [ (int(s) if s.isdigit() else s) for s in re.split(r':|/', k) ]
+
 def set_list(r, key, values):
   r.delete(key)
-  r.rpush(key, sorted(values))
+  r.rpush(key, *sorted(set(values), key=sortkey))
 
-def index_by(r, sentences, field):
+def index_by(r, items, field, index, val=lambda x: x[0]):
   key = lambda x: x[1][field]
-  [ set_list(r, '{}:sentences'.format(k),  [ x[0] for x in g ])
-    for k,g in groupby(sorted(sentences, key=key), key=key) ]
+  [ set_list(r, '{}:{}'.format(k,index),  [ val(x) for x in g ])
+    for k,g in groupby(sorted(items, key=key), key=key) ]
 
-def update(r, fixed):
-  [ r.hmset(k,v) for k,v in fixed.items() ]
-  index_by(r, fixed.items(), 'speaker')
-  index_by(r, fixed.items(), 'speechblock')
+def update(r, items):
+  [ r.hmset(k,v) for k,v in items ]
+  index_by(r, items, 'speaker', 'sentences')
+  index_by(r, items, 'speechblock', 'sentences')
+  index_by(r, items, 'speaker', 'speechblocks', lambda x: x[1]['speechblock'])
+  index_by(r, items, 'interview', 'speechblocks', lambda x: x[1]['speechblock'])
+  index_by(r, items, 'interview', 'speakers', lambda x: x[1]['speaker'])
 
 def main(interviews):
   r = redis.StrictRedis(decode_responses=True)
@@ -222,7 +233,7 @@ def main(interviews):
   f = dict(zip(chain(*keys),chain(*fixed)))
   save(o, 'original.json')
   save(f, 'fixed.json')
-  update(r,f)
+  update(r, f.items())
 
 if __name__ == "__main__":
   interviews = [
