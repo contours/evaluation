@@ -6,7 +6,7 @@ import json
 import redis
 from Queue import Queue, Empty
 from functools import partial, wraps
-from itertools import chain, ifilterfalse
+from itertools import chain, ifilterfalse, groupby
 from lxml import etree
 from subprocess import Popen, PIPE
 from threading import Thread
@@ -201,11 +201,28 @@ def save(o, filename):
   with open(filename, 'w') as f:
     json.dump(o, f, sort_keys=True, indent=2, separators=(',', ': '))
 
+def set_list(r, key, values):
+  r.delete(key)
+  r.rpush(key, sorted(values))
+
+def index_by(r, sentences, field):
+  key = lambda x: x[1][field]
+  [ set_list(r, '{}:sentences'.format(k),  [ x[0] for x in g ])
+    for k,g in groupby(sorted(sentences, key=key), key=key) ]
+
+def update(r, fixed):
+  [ r.hmset(k,v) for k,v in fixed.items() ]
+  index_by(r, fixed.items(), 'speaker')
+  index_by(r, fixed.items(), 'speechblock')
+
 def main(interviews):
   r = redis.StrictRedis(decode_responses=True)
   [keys,original,fixed] = zip(*[ fix_interview(r,i) for i in interviews ])
-  save(dict(zip(chain(*keys),chain(*original))), 'original.json')
-  save(dict(zip(chain(*keys),chain(*fixed))), 'fixed.json')
+  o = dict(zip(chain(*keys),chain(*original)))
+  f = dict(zip(chain(*keys),chain(*fixed)))
+  save(o, 'original.json')
+  save(f, 'fixed.json')
+  update(r,f)
 
 if __name__ == "__main__":
   interviews = [
