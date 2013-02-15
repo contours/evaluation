@@ -15,8 +15,8 @@ def speechblock_masses(r, interview):
 
 def parse_args():
   p = ArgumentParser(description=main.__doc__)
-  p.add_argument('interviews', help='interviews to get speechblock masses of',
-                 action='append')
+  p.add_argument(
+    'interviews', nargs='+', help='interviews to get speechblock masses of')
   return p.parse_args()
 
 def main():
