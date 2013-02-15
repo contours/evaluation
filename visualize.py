@@ -31,9 +31,11 @@ def visualize(doc_id, segmentations,
   if highlight_masses:
     highlight_indexes, highlight_m = masses_to_indexes(highlight_masses)
     assert highlight_m == m
+    offset = (0 if sum(highlight_masses[0][0::2]) > 
+                   sum(highlight_masses[0][1::2]) else 1)
     highlights = [ svg.highlight(y,l) 
                    for y,l in zip([0] + highlight_indexes[0], 
-                                  highlight_masses[0])[1::2] ]
+                                  highlight_masses[0])[offset::2] ]
   else:
     highlights = []
   [lines,labels] = zip(*[ 

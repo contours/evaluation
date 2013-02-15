@@ -8,9 +8,15 @@ from utils import *
 def speaker_masses(r, interview):
   speakers = [ r.hget(s, 'speaker') for s in r.lrange(
       'interviews:{}:sentences'.format(interview), 0, -1) ]
+  interviewee = sorted((speakers.count(s),s) for s in set(speakers))[-1][1]
+  def compare(pair):
+    if interviewee in pair[1] and not pair[1][0] == pair[1][1]:
+      # interviewee starting or finishing
+      return pair[0]
+    return None
   indexes = [ i for i in 
-              map(lambda pair: None if pair[1][0] == pair[1][1] else pair[0],
-                  enumerate(pairwise(speakers), start=1)) if i is not None ]
+              map(compare, enumerate(pairwise(speakers), start=1)) 
+              if i is not None ]
   [masses] = indexes_to_masses([indexes], len(speakers))
   return masses
 
