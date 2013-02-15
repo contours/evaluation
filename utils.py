@@ -2,7 +2,13 @@
 
 import json
 import operator
-from itertools import chain, groupby
+from itertools import chain, groupby, tee, izip
+
+def pairwise(iterable):
+  "s -> (s0,s1), (s1,s2), (s2, s3), ..."
+  a, b = tee(iterable)
+  next(b, None)
+  return izip(a, b)
 
 def accumulate(iterable, func=operator.add):
   "accumulate([1,2,3,4,5]) --> 1 3 6 10 15"
