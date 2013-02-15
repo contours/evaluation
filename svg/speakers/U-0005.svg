@@ -1,0 +1,2675 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="305" height="1158" id="svg2">
+  <g id="layer1" transform="translate(5,0)">
+
+    <path
+       d="m -2.5,4 0,19"
+       id="highlight-4"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,24 0,5"
+       id="highlight-24"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,31 0,33"
+       id="highlight-31"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,65 0,10"
+       id="highlight-65"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,76 0,1"
+       id="highlight-76"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,78 0,1"
+       id="highlight-78"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,81 0,33"
+       id="highlight-81"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,115 0,9"
+       id="highlight-115"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,126 0,8"
+       id="highlight-126"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,135 0,1"
+       id="highlight-135"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,137 0,1"
+       id="highlight-137"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,139 0,2"
+       id="highlight-139"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,142 0,6"
+       id="highlight-142"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,149 0,8"
+       id="highlight-149"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,158 0,1"
+       id="highlight-158"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,160 0,2"
+       id="highlight-160"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,163 0,1"
+       id="highlight-163"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,166 0,1"
+       id="highlight-166"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,169 0,14"
+       id="highlight-169"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,184 0,7"
+       id="highlight-184"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,192 0,2"
+       id="highlight-192"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,196 0,2"
+       id="highlight-196"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,201 0,10"
+       id="highlight-201"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,212 0,1"
+       id="highlight-212"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,215 0,18"
+       id="highlight-215"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,235 0,2"
+       id="highlight-235"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,240 0,6"
+       id="highlight-240"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,247 0,9"
+       id="highlight-247"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,257 0,4"
+       id="highlight-257"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,262 0,2"
+       id="highlight-262"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,265 0,9"
+       id="highlight-265"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,275 0,3"
+       id="highlight-275"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,279 0,1"
+       id="highlight-279"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,281 0,4"
+       id="highlight-281"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,286 0,1"
+       id="highlight-286"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,288 0,3"
+       id="highlight-288"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,292 0,9"
+       id="highlight-292"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,303 0,2"
+       id="highlight-303"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,307 0,14"
+       id="highlight-307"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,322 0,30"
+       id="highlight-322"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,353 0,1"
+       id="highlight-353"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,355 0,13"
+       id="highlight-355"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,370 0,1"
+       id="highlight-370"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,372 0,1"
+       id="highlight-372"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,375 0,10"
+       id="highlight-375"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,386 0,1"
+       id="highlight-386"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,388 0,31"
+       id="highlight-388"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,420 0,1"
+       id="highlight-420"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,423 0,3"
+       id="highlight-423"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,427 0,5"
+       id="highlight-427"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,433 0,9"
+       id="highlight-433"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,443 0,1"
+       id="highlight-443"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,445 0,6"
+       id="highlight-445"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,453 0,1"
+       id="highlight-453"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,455 0,14"
+       id="highlight-455"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,470 0,71"
+       id="highlight-470"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,542 0,14"
+       id="highlight-542"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,557 0,23"
+       id="highlight-557"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,581 0,7"
+       id="highlight-581"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,589 0,3"
+       id="highlight-589"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,593 0,1"
+       id="highlight-593"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,595 0,4"
+       id="highlight-595"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,601 0,1"
+       id="highlight-601"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,603 0,1"
+       id="highlight-603"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,606 0,3"
+       id="highlight-606"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,610 0,2"
+       id="highlight-610"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,613 0,4"
+       id="highlight-613"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,618 0,4"
+       id="highlight-618"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,623 0,1"
+       id="highlight-623"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,625 0,17"
+       id="highlight-625"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,643 0,4"
+       id="highlight-643"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,649 0,8"
+       id="highlight-649"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,658 0,9"
+       id="highlight-658"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,668 0,1"
+       id="highlight-668"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,671 0,4"
+       id="highlight-671"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,679 0,22"
+       id="highlight-679"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,702 0,1"
+       id="highlight-702"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,704 0,4"
+       id="highlight-704"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,709 0,1"
+       id="highlight-709"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,712 0,2"
+       id="highlight-712"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,715 0,1"
+       id="highlight-715"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,717 0,9"
+       id="highlight-717"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,727 0,2"
+       id="highlight-727"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,730 0,1"
+       id="highlight-730"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,732 0,3"
+       id="highlight-732"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,739 0,46"
+       id="highlight-739"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,786 0,6"
+       id="highlight-786"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,794 0,1"
+       id="highlight-794"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,796 0,23"
+       id="highlight-796"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,820 0,1"
+       id="highlight-820"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,822 0,9"
+       id="highlight-822"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,832 0,2"
+       id="highlight-832"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,835 0,3"
+       id="highlight-835"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,839 0,3"
+       id="highlight-839"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,846 0,1"
+       id="highlight-846"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,851 0,23"
+       id="highlight-851"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,876 0,1"
+       id="highlight-876"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,878 0,37"
+       id="highlight-878"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,916 0,3"
+       id="highlight-916"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,920 0,29"
+       id="highlight-920"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,950 0,11"
+       id="highlight-950"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,962 0,30"
+       id="highlight-962"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,994 0,23"
+       id="highlight-994"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1019 0,1"
+       id="highlight-1019"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1021 0,2"
+       id="highlight-1021"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1026 0,3"
+       id="highlight-1026"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1032 0,1"
+       id="highlight-1032"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1035 0,11"
+       id="highlight-1035"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1048 0,8"
+       id="highlight-1048"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1057 0,5"
+       id="highlight-1057"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1063 0,13"
+       id="highlight-1063"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1077 0,7"
+       id="highlight-1077"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1085 0,2"
+       id="highlight-1085"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1088 0,1"
+       id="highlight-1088"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1090 0,1"
+       id="highlight-1090"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1093 0,1"
+       id="highlight-1093"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1095 0,1"
+       id="highlight-1095"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1097 0,1"
+       id="highlight-1097"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1099 0,1"
+       id="highlight-1099"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1101 0,3"
+       id="highlight-1101"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1105 0,37"
+       id="highlight-1105"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1144 0,5"
+       id="highlight-1144"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1151 0,2"
+       id="highlight-1151"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -2.5,1154 0,3"
+       id="highlight-1154"
+       style="fill:none;stroke:#00ff00;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,4 5,0"
+       id="tick-4"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,23 5,0"
+       id="tick-23"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,24 5,0"
+       id="tick-24"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,29 5,0"
+       id="tick-29"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,31 5,0"
+       id="tick-31"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,38 5,0"
+       id="tick-38"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,48 5,0"
+       id="tick-48"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,58 5,0"
+       id="tick-58"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,64 5,0"
+       id="tick-64"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,65 5,0"
+       id="tick-65"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,68 5,0"
+       id="tick-68"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,75 5,0"
+       id="tick-75"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,76 5,0"
+       id="tick-76"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,77 5,0"
+       id="tick-77"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,78 5,0"
+       id="tick-78"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,79 5,0"
+       id="tick-79"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,81 5,0"
+       id="tick-81"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,102 5,0"
+       id="tick-102"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,106 5,0"
+       id="tick-106"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,114 5,0"
+       id="tick-114"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,115 5,0"
+       id="tick-115"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,117 5,0"
+       id="tick-117"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,124 5,0"
+       id="tick-124"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,126 5,0"
+       id="tick-126"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,134 5,0"
+       id="tick-134"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,135 5,0"
+       id="tick-135"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,136 5,0"
+       id="tick-136"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,137 5,0"
+       id="tick-137"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,138 5,0"
+       id="tick-138"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,139 5,0"
+       id="tick-139"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,141 5,0"
+       id="tick-141"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,142 5,0"
+       id="tick-142"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,148 5,0"
+       id="tick-148"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,149 5,0"
+       id="tick-149"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,157 5,0"
+       id="tick-157"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,158 5,0"
+       id="tick-158"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,159 5,0"
+       id="tick-159"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,160 5,0"
+       id="tick-160"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,162 5,0"
+       id="tick-162"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,163 5,0"
+       id="tick-163"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,164 5,0"
+       id="tick-164"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,166 5,0"
+       id="tick-166"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,167 5,0"
+       id="tick-167"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,169 5,0"
+       id="tick-169"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,183 5,0"
+       id="tick-183"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,184 5,0"
+       id="tick-184"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,191 5,0"
+       id="tick-191"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,192 5,0"
+       id="tick-192"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,194 5,0"
+       id="tick-194"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,196 5,0"
+       id="tick-196"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,198 5,0"
+       id="tick-198"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,201 5,0"
+       id="tick-201"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,211 5,0"
+       id="tick-211"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,212 5,0"
+       id="tick-212"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,213 5,0"
+       id="tick-213"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,215 5,0"
+       id="tick-215"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,219 5,0"
+       id="tick-219"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,226 5,0"
+       id="tick-226"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,233 5,0"
+       id="tick-233"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,235 5,0"
+       id="tick-235"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,237 5,0"
+       id="tick-237"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,240 5,0"
+       id="tick-240"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,246 5,0"
+       id="tick-246"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,247 5,0"
+       id="tick-247"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,256 5,0"
+       id="tick-256"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,257 5,0"
+       id="tick-257"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,261 5,0"
+       id="tick-261"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,262 5,0"
+       id="tick-262"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,264 5,0"
+       id="tick-264"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,265 5,0"
+       id="tick-265"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,274 5,0"
+       id="tick-274"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,275 5,0"
+       id="tick-275"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,278 5,0"
+       id="tick-278"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,279 5,0"
+       id="tick-279"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,280 5,0"
+       id="tick-280"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,281 5,0"
+       id="tick-281"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,285 5,0"
+       id="tick-285"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,286 5,0"
+       id="tick-286"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,287 5,0"
+       id="tick-287"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,288 5,0"
+       id="tick-288"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,291 5,0"
+       id="tick-291"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,292 5,0"
+       id="tick-292"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,301 5,0"
+       id="tick-301"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,303 5,0"
+       id="tick-303"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,305 5,0"
+       id="tick-305"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,307 5,0"
+       id="tick-307"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,317 5,0"
+       id="tick-317"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,321 5,0"
+       id="tick-321"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,322 5,0"
+       id="tick-322"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,329 5,0"
+       id="tick-329"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,352 5,0"
+       id="tick-352"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,353 5,0"
+       id="tick-353"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,354 5,0"
+       id="tick-354"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,355 5,0"
+       id="tick-355"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,363 5,0"
+       id="tick-363"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,368 5,0"
+       id="tick-368"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,370 5,0"
+       id="tick-370"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,371 5,0"
+       id="tick-371"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,372 5,0"
+       id="tick-372"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,373 5,0"
+       id="tick-373"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,375 5,0"
+       id="tick-375"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,385 5,0"
+       id="tick-385"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,386 5,0"
+       id="tick-386"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,387 5,0"
+       id="tick-387"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,388 5,0"
+       id="tick-388"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,399 5,0"
+       id="tick-399"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,419 5,0"
+       id="tick-419"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,420 5,0"
+       id="tick-420"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,421 5,0"
+       id="tick-421"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,423 5,0"
+       id="tick-423"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,424 5,0"
+       id="tick-424"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,426 5,0"
+       id="tick-426"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,427 5,0"
+       id="tick-427"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,432 5,0"
+       id="tick-432"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,433 5,0"
+       id="tick-433"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,442 5,0"
+       id="tick-442"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,443 5,0"
+       id="tick-443"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,444 5,0"
+       id="tick-444"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,445 5,0"
+       id="tick-445"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,451 5,0"
+       id="tick-451"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,453 5,0"
+       id="tick-453"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,454 5,0"
+       id="tick-454"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,455 5,0"
+       id="tick-455"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,469 5,0"
+       id="tick-469"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,470 5,0"
+       id="tick-470"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,499 5,0"
+       id="tick-499"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,514 5,0"
+       id="tick-514"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,528 5,0"
+       id="tick-528"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,541 5,0"
+       id="tick-541"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,542 5,0"
+       id="tick-542"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,545 5,0"
+       id="tick-545"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,556 5,0"
+       id="tick-556"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,557 5,0"
+       id="tick-557"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,570 5,0"
+       id="tick-570"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,580 5,0"
+       id="tick-580"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,581 5,0"
+       id="tick-581"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,588 5,0"
+       id="tick-588"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,589 5,0"
+       id="tick-589"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,592 5,0"
+       id="tick-592"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,593 5,0"
+       id="tick-593"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,594 5,0"
+       id="tick-594"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,595 5,0"
+       id="tick-595"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,599 5,0"
+       id="tick-599"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,601 5,0"
+       id="tick-601"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,602 5,0"
+       id="tick-602"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,603 5,0"
+       id="tick-603"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,604 5,0"
+       id="tick-604"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,606 5,0"
+       id="tick-606"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,609 5,0"
+       id="tick-609"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,610 5,0"
+       id="tick-610"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,612 5,0"
+       id="tick-612"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,613 5,0"
+       id="tick-613"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,617 5,0"
+       id="tick-617"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,618 5,0"
+       id="tick-618"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,622 5,0"
+       id="tick-622"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,623 5,0"
+       id="tick-623"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,624 5,0"
+       id="tick-624"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,625 5,0"
+       id="tick-625"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,630 5,0"
+       id="tick-630"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,639 5,0"
+       id="tick-639"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,642 5,0"
+       id="tick-642"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,643 5,0"
+       id="tick-643"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,647 5,0"
+       id="tick-647"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,649 5,0"
+       id="tick-649"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,657 5,0"
+       id="tick-657"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,658 5,0"
+       id="tick-658"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,667 5,0"
+       id="tick-667"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,668 5,0"
+       id="tick-668"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,669 5,0"
+       id="tick-669"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,671 5,0"
+       id="tick-671"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,675 5,0"
+       id="tick-675"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,679 5,0"
+       id="tick-679"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,701 5,0"
+       id="tick-701"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,702 5,0"
+       id="tick-702"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,703 5,0"
+       id="tick-703"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,704 5,0"
+       id="tick-704"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,708 5,0"
+       id="tick-708"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,709 5,0"
+       id="tick-709"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,710 5,0"
+       id="tick-710"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,712 5,0"
+       id="tick-712"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,714 5,0"
+       id="tick-714"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,715 5,0"
+       id="tick-715"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,716 5,0"
+       id="tick-716"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,717 5,0"
+       id="tick-717"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,726 5,0"
+       id="tick-726"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,727 5,0"
+       id="tick-727"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,729 5,0"
+       id="tick-729"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,730 5,0"
+       id="tick-730"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,731 5,0"
+       id="tick-731"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,732 5,0"
+       id="tick-732"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,735 5,0"
+       id="tick-735"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,739 5,0"
+       id="tick-739"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,744 5,0"
+       id="tick-744"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,754 5,0"
+       id="tick-754"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,772 5,0"
+       id="tick-772"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,781 5,0"
+       id="tick-781"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,785 5,0"
+       id="tick-785"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,786 5,0"
+       id="tick-786"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,792 5,0"
+       id="tick-792"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,794 5,0"
+       id="tick-794"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,795 5,0"
+       id="tick-795"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,796 5,0"
+       id="tick-796"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,808 5,0"
+       id="tick-808"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,819 5,0"
+       id="tick-819"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,820 5,0"
+       id="tick-820"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,821 5,0"
+       id="tick-821"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,822 5,0"
+       id="tick-822"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,831 5,0"
+       id="tick-831"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,832 5,0"
+       id="tick-832"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,834 5,0"
+       id="tick-834"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,835 5,0"
+       id="tick-835"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,838 5,0"
+       id="tick-838"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,839 5,0"
+       id="tick-839"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,842 5,0"
+       id="tick-842"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,846 5,0"
+       id="tick-846"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,847 5,0"
+       id="tick-847"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,851 5,0"
+       id="tick-851"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,855 5,0"
+       id="tick-855"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,864 5,0"
+       id="tick-864"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,867 5,0"
+       id="tick-867"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,874 5,0"
+       id="tick-874"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,876 5,0"
+       id="tick-876"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,877 5,0"
+       id="tick-877"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,878 5,0"
+       id="tick-878"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,891 5,0"
+       id="tick-891"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,904 5,0"
+       id="tick-904"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,915 5,0"
+       id="tick-915"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,916 5,0"
+       id="tick-916"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,919 5,0"
+       id="tick-919"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,920 5,0"
+       id="tick-920"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,928 5,0"
+       id="tick-928"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,935 5,0"
+       id="tick-935"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,949 5,0"
+       id="tick-949"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,950 5,0"
+       id="tick-950"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,961 5,0"
+       id="tick-961"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,962 5,0"
+       id="tick-962"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,983 5,0"
+       id="tick-983"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,992 5,0"
+       id="tick-992"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,994 5,0"
+       id="tick-994"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1004 5,0"
+       id="tick-1004"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1008 5,0"
+       id="tick-1008"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1017 5,0"
+       id="tick-1017"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1019 5,0"
+       id="tick-1019"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1020 5,0"
+       id="tick-1020"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1021 5,0"
+       id="tick-1021"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1023 5,0"
+       id="tick-1023"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1026 5,0"
+       id="tick-1026"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1029 5,0"
+       id="tick-1029"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1032 5,0"
+       id="tick-1032"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1033 5,0"
+       id="tick-1033"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1035 5,0"
+       id="tick-1035"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1039 5,0"
+       id="tick-1039"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1046 5,0"
+       id="tick-1046"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1048 5,0"
+       id="tick-1048"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1053 5,0"
+       id="tick-1053"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1056 5,0"
+       id="tick-1056"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1057 5,0"
+       id="tick-1057"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1062 5,0"
+       id="tick-1062"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1063 5,0"
+       id="tick-1063"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1076 5,0"
+       id="tick-1076"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1077 5,0"
+       id="tick-1077"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1084 5,0"
+       id="tick-1084"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1085 5,0"
+       id="tick-1085"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1087 5,0"
+       id="tick-1087"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1088 5,0"
+       id="tick-1088"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1089 5,0"
+       id="tick-1089"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1090 5,0"
+       id="tick-1090"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1091 5,0"
+       id="tick-1091"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1093 5,0"
+       id="tick-1093"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1094 5,0"
+       id="tick-1094"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1095 5,0"
+       id="tick-1095"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1096 5,0"
+       id="tick-1096"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1097 5,0"
+       id="tick-1097"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1098 5,0"
+       id="tick-1098"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1099 5,0"
+       id="tick-1099"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1100 5,0"
+       id="tick-1100"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1101 5,0"
+       id="tick-1101"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1104 5,0"
+       id="tick-1104"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1105 5,0"
+       id="tick-1105"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1118 5,0"
+       id="tick-1118"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1122 5,0"
+       id="tick-1122"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1129 5,0"
+       id="tick-1129"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1142 5,0"
+       id="tick-1142"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1144 5,0"
+       id="tick-1144"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1149 5,0"
+       id="tick-1149"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1151 5,0"
+       id="tick-1151"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1153 5,0"
+       id="tick-1153"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m -5,1154 5,0"
+       id="tick-1154"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,29 100,0"
+       id="annotators:brennan-29"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,114 100,0"
+       id="annotators:brennan-114"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,148 100,0"
+       id="annotators:brennan-148"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,167 100,0"
+       id="annotators:brennan-167"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,211 100,0"
+       id="annotators:brennan-211"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,237 100,0"
+       id="annotators:brennan-237"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,291 100,0"
+       id="annotators:brennan-291"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,444 100,0"
+       id="annotators:brennan-444"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,469 100,0"
+       id="annotators:brennan-469"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,588 100,0"
+       id="annotators:brennan-588"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,647 100,0"
+       id="annotators:brennan-647"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,675 100,0"
+       id="annotators:brennan-675"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,792 100,0"
+       id="annotators:brennan-792"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,842 100,0"
+       id="annotators:brennan-842"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,992 100,0"
+       id="annotators:brennan-992"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,1017 100,0"
+       id="annotators:brennan-1017"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,1046 100,0"
+       id="annotators:brennan-1046"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,1089 100,0"
+       id="annotators:brennan-1089"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,29 100,0"
+       id="annotators:docsouth-29"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,64 100,0"
+       id="annotators:docsouth-64"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,291 100,0"
+       id="annotators:docsouth-291"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,451 100,0"
+       id="annotators:docsouth-451"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,541 100,0"
+       id="annotators:docsouth-541"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,675 100,0"
+       id="annotators:docsouth-675"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,735 100,0"
+       id="annotators:docsouth-735"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,792 100,0"
+       id="annotators:docsouth-792"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,842 100,0"
+       id="annotators:docsouth-842"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 100,1017 100,0"
+       id="annotators:docsouth-1017"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,29 100,0"
+       id="annotators:mannheim-29"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,114 100,0"
+       id="annotators:mannheim-114"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,124 100,0"
+       id="annotators:mannheim-124"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,167 100,0"
+       id="annotators:mannheim-167"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,183 100,0"
+       id="annotators:mannheim-183"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,211 100,0"
+       id="annotators:mannheim-211"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,237 100,0"
+       id="annotators:mannheim-237"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,371 100,0"
+       id="annotators:mannheim-371"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,444 100,0"
+       id="annotators:mannheim-444"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,469 100,0"
+       id="annotators:mannheim-469"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,588 100,0"
+       id="annotators:mannheim-588"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,612 100,0"
+       id="annotators:mannheim-612"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,617 100,0"
+       id="annotators:mannheim-617"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,647 100,0"
+       id="annotators:mannheim-647"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,675 100,0"
+       id="annotators:mannheim-675"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,679 100,0"
+       id="annotators:mannheim-679"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,729 100,0"
+       id="annotators:mannheim-729"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,792 100,0"
+       id="annotators:mannheim-792"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,842 100,0"
+       id="annotators:mannheim-842"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,1023 100,0"
+       id="annotators:mannheim-1023"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 200,1104 100,0"
+       id="annotators:mannheim-1104"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3, 3;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,29 300,0"
+       id="gold-29"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,114 300,0"
+       id="gold-114"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,167 300,0"
+       id="gold-167"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,211 300,0"
+       id="gold-211"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,237 300,0"
+       id="gold-237"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,291 300,0"
+       id="gold-291"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,444 300,0"
+       id="gold-444"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,469 300,0"
+       id="gold-469"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,588 300,0"
+       id="gold-588"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,647 300,0"
+       id="gold-647"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,675 300,0"
+       id="gold-675"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,792 300,0"
+       id="gold-792"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,842 300,0"
+       id="gold-842"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+    <path
+       d="m 0,1017 300,0"
+       id="gold-1017"
+       style="fill:none;stroke:red;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75;stroke-dasharray:none;stroke-dashoffset:0" />
+
+  <g transform="translate(0,29)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">29</text>
+  </g>
+
+  <g transform="translate(0,114)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">114</text>
+  </g>
+
+  <g transform="translate(0,148)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">148</text>
+  </g>
+
+  <g transform="translate(0,167)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">167</text>
+  </g>
+
+  <g transform="translate(0,211)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">211</text>
+  </g>
+
+  <g transform="translate(0,237)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">237</text>
+  </g>
+
+  <g transform="translate(0,291)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">291</text>
+  </g>
+
+  <g transform="translate(0,444)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">444</text>
+  </g>
+
+  <g transform="translate(0,469)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">469</text>
+  </g>
+
+  <g transform="translate(0,588)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">588</text>
+  </g>
+
+  <g transform="translate(0,647)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">647</text>
+  </g>
+
+  <g transform="translate(0,675)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">675</text>
+  </g>
+
+  <g transform="translate(0,792)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">792</text>
+  </g>
+
+  <g transform="translate(0,842)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">842</text>
+  </g>
+
+  <g transform="translate(0,992)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">992</text>
+  </g>
+
+  <g transform="translate(0,1017)">
+    <rect width="20" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">1017</text>
+  </g>
+
+  <g transform="translate(0,1046)">
+    <rect width="20" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">1046</text>
+  </g>
+
+  <g transform="translate(0,1089)">
+    <rect width="20" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">1089</text>
+  </g>
+
+  <g transform="translate(100,29)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">29</text>
+  </g>
+
+  <g transform="translate(100,64)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">64</text>
+  </g>
+
+  <g transform="translate(100,291)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">291</text>
+  </g>
+
+  <g transform="translate(100,451)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">451</text>
+  </g>
+
+  <g transform="translate(100,541)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">541</text>
+  </g>
+
+  <g transform="translate(100,675)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">675</text>
+  </g>
+
+  <g transform="translate(100,735)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">735</text>
+  </g>
+
+  <g transform="translate(100,792)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">792</text>
+  </g>
+
+  <g transform="translate(100,842)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">842</text>
+  </g>
+
+  <g transform="translate(100,1017)">
+    <rect width="20" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">1017</text>
+  </g>
+
+  <g transform="translate(200,29)">
+    <rect width="12" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">29</text>
+  </g>
+
+  <g transform="translate(200,114)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">114</text>
+  </g>
+
+  <g transform="translate(200,124)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">124</text>
+  </g>
+
+  <g transform="translate(200,167)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">167</text>
+  </g>
+
+  <g transform="translate(200,183)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">183</text>
+  </g>
+
+  <g transform="translate(200,211)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">211</text>
+  </g>
+
+  <g transform="translate(200,237)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">237</text>
+  </g>
+
+  <g transform="translate(200,371)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">371</text>
+  </g>
+
+  <g transform="translate(200,444)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">444</text>
+  </g>
+
+  <g transform="translate(200,469)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">469</text>
+  </g>
+
+  <g transform="translate(200,588)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">588</text>
+  </g>
+
+  <g transform="translate(200,612)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">612</text>
+  </g>
+
+  <g transform="translate(200,617)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">617</text>
+  </g>
+
+  <g transform="translate(200,647)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">647</text>
+  </g>
+
+  <g transform="translate(200,675)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">675</text>
+  </g>
+
+  <g transform="translate(200,679)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">679</text>
+  </g>
+
+  <g transform="translate(200,729)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">729</text>
+  </g>
+
+  <g transform="translate(200,792)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">792</text>
+  </g>
+
+  <g transform="translate(200,842)">
+    <rect width="16" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">842</text>
+  </g>
+
+  <g transform="translate(200,1023)">
+    <rect width="20" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">1023</text>
+  </g>
+
+  <g transform="translate(200,1104)">
+    <rect width="20" height="8" rx="5" ry="5" x="0" y="-4"
+       style="color:#000000;fill:#ffffff;stroke:#000000;stroke-width:0.3;" />
+    <text x="3" y="2" style="font-size:6px;font-family:sans-serif">1104</text>
+  </g>
+
+  </g>
+</svg>

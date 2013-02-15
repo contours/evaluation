@@ -19,6 +19,10 @@ def accumulate(iterable, func=operator.add):
     total = func(total, element)
     yield total
 
+def masslist_to_indexlist(masslist):
+  [indexlist], m = masses_to_indexes([masslist])
+  return indexlist, m
+
 def masses_to_indexes(mass_lists):
   """
   Convert segmentations represented as mass sequences to segmentations
@@ -31,6 +35,10 @@ def masses_to_indexes(mass_lists):
 
 def zip_differences(l):
   return [ operator.sub(*pair) for pair in zip(l[1:], l[0:]) ]
+
+def indexlist_to_masslist(indexlist, m):
+  [masslist] = indexes_to_masses([indexlist], m)
+  return masslist
 
 def indexes_to_masses(index_lists, m):
   """
