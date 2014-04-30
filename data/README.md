@@ -2,45 +2,57 @@
 
 All the following files contain linear segmentations serialized as [JSON in the Segeval format](http://segeval.readthedocs.org/en/latest/user/quickstart/#loading-data).
 
+---
+
 **`segmentations.json`**<a name="segmentations"></a>
 
 All human-created segmentations. Each segmentation is sentence-based, i.e. the segment masses are number of sentences per segment.
 
-**`segmentations-by-speaker-turns.json`**<a name="segmentations-by-speaker-turns"></a>
+---
+
+**`segmentations-by-speaker-turns.json`**
 
 All human-created segmentations, each segmentation is *speaker-turn-based*, i.e. the segment masses are number of *speaker turns* per segment. This was generated using the script [`project.py`](../project.py) and the data files [`segmentations.json`](#segmentations) (see above) and [`speakers.json`](#speakers) (see below).
 
     project.py segmentations.json speakers.json 
 
+---
+
 **`speakers.json`**<a name="speakers"></a>
 
 Segmentations with boundaries placed at each point there is a speaker change.
 
-**`speechblocks.json`**<a name="speechblocks"></a>
+---
+
+**`speechblocks.json`**
 
 Segmentations with boundaries placed at each point there is a speaker change *or paragraph break* in the original interview transcript.
 
+---
+
 **`segmentations-`*coder name*`.json`**
 
-These are simply subdivisions of [`segmentations.json`](#segmentations) into files that only contain segmentations from a single coder.
+These are simply subdivisions of [`segmentations.json`](#segmentations) into files that only contain segmentations from a single coder, and their speaker-turn-based variations.
 
-**`segmentations-`*coder name*`-by-speaker-turns.json`**
-
-These are simply subdivisions of [`segmentations-by-speaker-turns.json`](#segmentations-by-speaker-turns) into files that only contain segmentations from a single coder.
+---
 
 **`segmentations-null.json`**<br>
 **`segmentations-null-by-speaker-turns.json`**
 
-A null (no boundaries) segmentation generated using [`nullseg.py`](../nullseg.py), and it's speaker-turn-based version.
+A null (no boundaries) segmentation generated using [`nullseg.py`](../nullseg.py) and [`segmentations.json`](#segmentations), and it's speaker-turn-based version.
 
     nullseg.py segmentations.json
+
+---
 
 **`segmentations-random.json`**<br>
 **`segmentations-random-by-speaker-turns.json`**
 
-A random (no boundaries) segmentation generated using [`randomseg.py`](../randomseg.py), and it's speaker-turn-based version.
+A random segmentation generated using [`randomseg.py`](../randomseg.py) and [`segmentations.json`](#segmentations), and it's speaker-turn-based version.
 
     randomseg.py segmentations.json
+
+---
 
 **`texttiling-parameter-sweep`**
 
