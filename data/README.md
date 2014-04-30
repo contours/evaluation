@@ -30,7 +30,8 @@ Segmentations with boundaries placed at each point there is a speaker change *or
 
 ---
 
-**`segmentations-`coder name`.json`**
+**`segmentations-`coder name`.json`**<br>
+**`segmentations-`coder name`-by-speaker-turns.json`**
 
 These are simply subdivisions of [`segmentations.json`](#segmentations) into files that only contain segmentations from a single coder, and their speaker-turn-based variations.
 
